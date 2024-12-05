@@ -43,7 +43,7 @@ Avant d'utiliser ce projet, vous devez avoir les éléments suivants installés 
 
 1. Clonez ce repository sur votre machine locale :
    ```bash
-   git clone https://git@github.com:soumamoh/Huffman_coding.git
+   git clone https://github.com/soumamoh/Huffman_coding.git
    cd huffman-compression
    ```
 
